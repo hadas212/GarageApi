@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GarageApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6001f33bed77e13996d03ee751db0037264f9924")]
 [assembly: System.Reflection.AssemblyProductAttribute("GarageApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GarageApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
